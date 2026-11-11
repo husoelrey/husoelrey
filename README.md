@@ -20,39 +20,61 @@
 
 ## About me
 
-I'm a software engineer based in **Varna, Bulgaria**, building privacy-conscious tools across local AI, defensive cybersecurity, and mobile and desktop applications.
+I'm a software engineer based in **Varna, Bulgaria**, working across local AI, defensive cybersecurity, distributed backends, applied machine learning, and product-focused applications.
 
-- Building **[SecureOps Local](https://github.com/husoelrey/SecureOpsLocal)** — an air-gapped incident-triage and log-correlation platform powered by local LLMs, document-grounded RAG, Python, and Rust.
-- Developing **[AwareMate](https://github.com/husoelrey/AwareMate)** — an open-source Android companion for mindful digital habits and personal growth.
-- Interested in dependable architecture, offline-first products, human-in-the-loop AI, and thoughtful user experiences.
+- I build privacy-conscious systems with clear service boundaries and dependable architecture.
+- I care about measurable engineering: testing, observability, performance, and reproducibility.
+- I enjoy turning complex technical problems into focused, understandable products.
 
 ## Technology stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,kotlin,dart,flutter,cs,dotnet,java,fastapi,pytorch,docker,firebase,androidstudio,sqlite,git,github&amp;perline=8" alt="Python, Rust, Kotlin, Dart, Flutter, C sharp, .NET, Java, FastAPI, PyTorch, Docker, Firebase, Android Studio, SQLite, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,rust,kotlin,java,cs,dotnet,fastapi,spring,pytorch,docker,kubernetes,mongodb,postgres,grafana,firebase,git&amp;perline=8" alt="Python, Rust, Kotlin, Java, C sharp, .NET, FastAPI, Spring, PyTorch, Docker, Kubernetes, MongoDB, PostgreSQL, Grafana, Firebase, and Git" />
 </p>
 
-## Selected work
+## Featured engineering work
 
-### [`SecureOpsLocal`](https://github.com/husoelrey/SecureOpsLocal)
-Air-gapped AI decision support for security incident triage and multi-source log correlation. It combines deterministic Python and Rust parsing, offline threat intelligence, local LLM runtimes, and document-grounded RAG.
+### `01` · [`SecureOpsLocal`](https://github.com/husoelrey/SecureOpsLocal)
+**Local-first cybersecurity · Personal project**
+
+Air-gapped AI decision support for incident triage and multi-source log correlation, combining deterministic Python and Rust parsing with offline threat intelligence, local LLM runtimes, and document-grounded RAG.
 
 `Python` · `Rust` · `FastAPI` · `PyTorch` · `SQLite` · `Ollama` · `Docker`
 
-### [`AwareMate`](https://github.com/husoelrey/AwareMate)
-An open-source Android companion designed around healthier digital habits, mindful focus, mood reflection, and compassionate personal growth.
+### `02` · [`product-order-microservices`](https://github.com/ranakaragol/product-order-microservices)
+**Backend architecture · Team project**
+
+JWT-secured microservices backend with a central API gateway, isolated MongoDB persistence, Kubernetes deployment, and Prometheus/Grafana observability. My focus: dispatcher, authorization, test infrastructure, monitoring, load testing, and Kubernetes CI.
+
+`Python` · `FastAPI` · `MongoDB` · `Docker` · `Kubernetes` · `Prometheus` · `Grafana`
+
+### `03` · [`AwareMate`](https://github.com/husoelrey/AwareMate)
+**Android product engineering · Personal project**
+
+Open-source Android companion designed around healthier digital habits, mindful focus, mood reflection, and compassionate personal growth.
 
 `Kotlin` · `Compose Multiplatform` · `Room` · `Firebase` · `Material 3`
 
-### [`flutter_alarm`](https://github.com/husoelrey/flutter_alarm)
-A task-focused Android alarm app with no snooze button, memory and typing wake-up challenges, native alarm integration, and full-screen lock-screen support.
+### `04` · [`transcript-ai-word-learning-system`](https://github.com/merwf/transcript-ai-word-learning-system)
+**AI-assisted learning · Team project**
 
-`Flutter` · `Dart` · `Kotlin` · `Firebase` · `MethodChannel`
+Microservice-based learning platform that turns YouTube transcripts into vocabulary exercises, quizzes, progress tracking, and personalized repetition through an Android client.
 
-### [`speech-to-translate`](https://github.com/husoelrey/speech-to-translate)
-A Windows system-tray assistant that records Turkish speech, translates it to Bulgarian, and pastes the result into the active application while preserving clipboard contents.
+`Java 21` · `Spring Boot` · `Kotlin` · `Jetpack Compose` · `Kong` · `MongoDB` · `PostgreSQL`
 
-`C#` · `.NET 8` · `WinForms` · `Gemini API` · `NAudio`
+### `05` · [`explainable-timeseries-anomaly-detection`](https://github.com/sudenazguldal/explainable-timeseries-anomaly-detection)
+**Applied machine learning · Team project**
+
+Industrial time-series research comparing LSTM and 1D-CNN models with an explainable probabilistic automata pipeline across the SKAB and BATADAL datasets.
+
+`Python` · `PyTorch` · `LSTM` · `1D-CNN` · `PCA` · `SAX`
+
+### `06` · [`graphSNA`](https://github.com/DevBD1/graphSNA)
+**Graph algorithms and visualization · Co-authored project**
+
+Interactive social-network analysis tool with force-directed visualization, animated graph traversal, shortest-path strategies, graph coloring, and centrality analysis.
+
+`C#` · `.NET Framework` · `Windows Forms` · `GDI+` · `BFS/DFS` · `Dijkstra/A*`
 
 ## GitHub activity
 
